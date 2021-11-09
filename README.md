@@ -18,7 +18,7 @@
   <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="35" height="35"/>
   <img src="https://cdn.dribbble.com/users/66221/screenshots/1655593/html5.png" width="35" height="35"/>
   <img src="https://www.seekpng.com/png/full/80-803501_javascript-logo-logo-de-java-script-png.png" width="35" height="35"/>
-   <img src="https://image.pngaaa.com/810/3770810-middle.png" width="35" height="35"/>
+   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDsp9ILN5m0a3eSUdlW8tI92p9WOlT_Q5mYA&usqp=CAU" width="35" height="35"/>
 </p>
 
 ![Damilare's GitHub stats](https://github-readme-stats.vercel.app/api?username=damilare-olaleye&show_icons=true&theme=merko)
