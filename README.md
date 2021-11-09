@@ -6,6 +6,8 @@
 
 - 👯 I’m looking to collaborate on Kotlin (Android), and Java projects
 
+- 🥳 Always excited and ready to learn new skills
+
 - 💬 Ask me about Kotlin, Java, Music, Cryptos
 
 - 📫 How to reach me: damilare.olaleye@cyatmr.com
