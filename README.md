@@ -17,11 +17,12 @@
   <img src="https://cms-assets.tutsplus.com/uploads/users/1499/posts/29744/preview_image/kotlin.jpg" width="35" height="35" /> 
   <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="35" height="35"/>
   <img src="https://cdn.dribbble.com/users/66221/screenshots/1655593/html5.png" width="35" height="35"/>
+  <img src="https://thumbs.dreamstime.com/b/javascript-logo-javascript-logo-white-background-vector-format-available-136765881.jpg" width="35" height="35"/>
 </p>
 
 ![Damilare's GitHub stats](https://github-readme-stats.vercel.app/api?username=damilare-olaleye&show_icons=true&theme=merko)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=damilare-olaleye&langs_count=8)](https://github.com/damilare-olaleye/github-readme-stats)
 
-![](https://komarev.com/ghpvc/?username=damilare-olaleye&label=Profile+Views)
+![](https://komarev.com/ghpvc/?username=damilare-olaleye&label=Profile+Views&color=green)
 
