@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Damilare Olaleye
 
-- 🔭 I’m currently working on improving my Problem Solving skills.
+- 🔭 I’m currently working on improving my problem solving skills.
 
 - 🌱 I’m currently learning Java, Data Structures and Algorithms
 
