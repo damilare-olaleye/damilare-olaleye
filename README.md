@@ -12,7 +12,7 @@
 
 - ⚡ Fun fact: I talk alot 
 
-<p float="left">
+<p float="center">
   <img src="https://www.logolynx.com/images/logolynx/b1/b1905f96c3a69abfbb8ac5b5995b3d87.jpeg" width="35" height="35" />
   <img src="https://cms-assets.tutsplus.com/uploads/users/1499/posts/29744/preview_image/kotlin.jpg" width="35" height="35" /> 
   <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="35" height="35"/>
