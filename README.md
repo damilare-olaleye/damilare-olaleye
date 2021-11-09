@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning Java, Data Structures and Algorithms
 
-- 👯 I’m looking to collaborate on Kotlin (Android) projects
+- 👯 I’m looking to collaborate on Kotlin (Android), and Java projects
 
 - 💬 Ask me about Kotlin, Java, Music, Cryptos
 
