@@ -13,7 +13,7 @@
 - ⚡ Fun fact: I talk alot 
 
 <p float="center">
-  <img src="https://www.logolynx.com/images/logolynx/b1/b1905f96c3a69abfbb8ac5b5995b3d87.jpeg" width="35" height="35" />
+  <img src="https://cdn.vox-cdn.com/thumbor/VoXJ8IaxCj5_U-366JhtUHLkdQ0=/0x0:640x427/1400x1050/filters:focal(0x0:640x427):format(jpeg)/cdn.vox-cdn.com/assets/1087137/java_logo_640.jpg" width="35" height="35" />
   <img src="https://cms-assets.tutsplus.com/uploads/users/1499/posts/29744/preview_image/kotlin.jpg" width="35" height="35" /> 
   <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="35" height="35"/>
   <img src="https://cdn.dribbble.com/users/66221/screenshots/1655593/html5.png" width="35" height="35"/>
