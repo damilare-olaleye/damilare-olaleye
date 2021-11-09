@@ -1,10 +1,15 @@
 ### Hi there 👋, I'm Damilare Olaleye
 
 - 🔭 I’m currently working on improving my Problem Solving skills.
+
 - 🌱 I’m currently learning Java, Data Structures and Algorithms
+
 - 👯 I’m looking to collaborate on Kotlin (Android)
-- 💬 Ask me about Kotlin, Java, Music, Crypto
+
+- 💬 Ask me about Kotlin, Java, Music, Cryptos
+
 - 📫 How to reach me: damilare.olaleye@cyatmr.com
+
 - ⚡ Fun fact: I talk alot 
 
 <p float="left">
