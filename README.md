@@ -2,13 +2,13 @@
 
 - 🔭 I’m always working on improving my problem solving skills.
 
-- 🌱 I’m currently learning Java, Data Structures and Algorithms
+- 🌱 I’m currently learning AWS, Java, Data Structures and Algorithms
 
 - 👯 I’m looking to collaborate on Kotlin (Android), and Java projects
 
 - 🥳 Always excited and ready to learn new skills
 
-- 💬 Ask me about Kotlin, Java, Music, Cryptos
+- 💬 Ask me about AWS, Kotlin, Java, Music, Cryptos
 
 - 📫 How to reach me: damilare.olaleye@cyatmr.com
 
