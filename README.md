@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning Java, Data Structures and Algorithms, AWS, Automation Testing 
 
-- 👯 I’m looking to collaborate on Kotlin (Android), and Java projects
+- 👯 I’m looking to collaborate on Kotlin (Android), and Java fullstack projects
 
 - 🥳 Always excited and ready to learn new skills
 
