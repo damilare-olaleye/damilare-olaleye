@@ -1,5 +1,6 @@
 ### Hi there 👋, I'm Damilare Olaleye
-#### I am a full-stack Java software developer who has built full-stack web applications. I attended Rhodes State College where I received my Associate Degree in Web Programming, and I also attended Bowling Green State University where I received my Bachelors of Science in Computer Science. I started programming when I was 11 years old, my first programming experience was COBOL and C#. 
+
+I am a full-stack Java software developer who has built full-stack web applications. I attended Rhodes State College where I received my Associate Degree in Web Programming, and I also attended Bowling Green State University where I received my Bachelors of Science in Computer Science. I started programming when I was 11 years old, my first programming experience was COBOL and C#. 
 
 - 🔭 I’m always working on improving my problem solving skills.
 
