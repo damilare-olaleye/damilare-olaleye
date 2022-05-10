@@ -14,6 +14,9 @@ I am a full-stack Java software developer who has built full-stack web applicati
 
 - ⚡ Fun fact: I talk alot 
 
+- Websites: www.cyatmr.com
+          : www.h3tag.com
+          
 <p float="center">
   <img src="https://cdn.vox-cdn.com/thumbor/VoXJ8IaxCj5_U-366JhtUHLkdQ0=/0x0:640x427/1400x1050/filters:focal(0x0:640x427):format(jpeg)/cdn.vox-cdn.com/assets/1087137/java_logo_640.jpg" width="35" height="35" />
   <img src="https://cms-assets.tutsplus.com/uploads/users/1499/posts/29744/preview_image/kotlin.jpg" width="35" height="35" /> 
