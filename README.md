@@ -3,15 +3,13 @@
 I am a full-stack Java software developer who has built full-stack web applications. 
 - 🔭 I’m always working on improving my problem solving skills.
 
-- 👯 I’m looking to collaborate on Kotlin (Android), and Java fullstack projects
+- 👯 I’m looking to collaborate on QA, and Java fullstack projects
 
 - 🥳 Always excited and ready to learn new skills
 
-- 💬 Ask me about Soccer (Arsenal fc), Kotlin, Java, Music, Cryptos
+- 💬 Ask me about Soccer (Arsenal fc), Playwright, Java, Selenium
 
 - 📫 How to reach me: damilare.olaleye@cyatmr.com
-
-- ⚡ Fun fact: I talk alot 
 
 - Websites: https://cyatmr.com
           : https://h3tag.com
