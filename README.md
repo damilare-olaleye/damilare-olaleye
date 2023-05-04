@@ -1,13 +1,11 @@
 ### Hi there 👋, I'm Damilare Olaleye
 
-I am a full-stack Java software developer who has built full-stack web applications. 
+I am a software engineer who has built full-stack web applications. 
 - 🔭 I’m always working on improving my problem solving skills.
-
-- 👯 I’m looking to collaborate on QA, and Java fullstack projects
 
 - 🥳 Always excited and ready to learn new skills
 
-- 💬 Ask me about Soccer (Arsenal fc), Playwright, Java, Selenium
+- 💬 Ask me about Soccer (Arsenal fc), Playwright, Java, Selenium, javascript, typescript, AWS(cdk)
 
 - 📫 How to reach me: damilare.olaleye@cyatmr.com
 
